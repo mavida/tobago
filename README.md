@@ -1,6 +1,7 @@
 # Tobago
 Tobago WordPress theme
 
+
 ## Main Features 
 
 - Made with Bootstrap 3.3, Font Awesome 4.3
@@ -11,3 +12,4 @@ Tobago WordPress theme
 - Custom Page template (full width, gallery, slideshow)
 - Infinite sidebar widgets area generator
 
+### 
